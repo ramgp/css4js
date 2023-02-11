@@ -2,9 +2,11 @@
   import { base } from "$app/paths";
 </script>
 
-<h1>sveltekit-gh-pages</h1>
-<p>Deployed to GitHub Pages</p>
-<p>
-  Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation
-</p>
-<a href="{base}/about">About</a>
+<h1>CSS 4 JS</h1>
+<p>Exercises and workshops</p>
+<ul>
+  <li><a href="{base}/module3/workshop/progressbar">Progress Bar</a></li>
+  <li><a href="{base}/module3/workshop/select">Select</a></li>
+  <li><a href="{base}/module3/workshop/iconinput">Icon Input</a></li>
+</ul>
+
